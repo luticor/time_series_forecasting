@@ -1,0 +1,4 @@
+To start, first make sure you have a suitable python environment. An environment.yml file has been included for this purpose.
+If you wish to use the environment.yml file to create a conda environment, use the following:
+
+conda env create -f environment.yml
